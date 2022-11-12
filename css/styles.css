@@ -568,7 +568,7 @@ body {
 }
 
 .subscribe {
-    margin-left: 93px;
+    margin-left: auto;
 }
 
 .subscribe-title {
@@ -709,6 +709,10 @@ body {
 
 .modal-field {
     margin-bottom: 10px;
+}
+
+.modal-field-comment {
+    margin-bottom: 20px;
 }
 
 .input-label {
